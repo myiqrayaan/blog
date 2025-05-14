@@ -6,13 +6,13 @@
         "thumbnail_url": "https://raw.githubusercontent.com/myiqrayaan/blog/refs/heads/main/images/animal-9113761_1920.jpg"
     },
     {
-        "id": 1,
+        "id": 2,
         "title": "Using Ktor In Jetpack Compose. A Full Fledged Explanation",
         "thumbnail_url": "https://raw.githubusercontent.com/myiqrayaan/blog/refs/heads/main/images/baby-7852589_1920.jpg",
         "content_url": "https://raw.githubusercontent.com/myiqrayaan/blog/refs/heads/main/blogs/blog2.md"
     },
     {
-        "id": 1,
+        "id": 3,
         "title": "Using Ktor In Jetpack Compose. A Full Fledged Explanation",
         "thumbnail_url": "https://raw.githubusercontent.com/myiqrayaan/blog/refs/heads/main/images/bird-8158766_1920.png",
         "content_url": "https://raw.githubusercontent.com/myiqrayaan/blog/refs/heads/main/blogs/blog3.md"
